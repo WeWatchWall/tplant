@@ -56,7 +56,6 @@
   },
   "include": [
     "src/**/*.ts",
-    "src/**/*.js",
     "src/tsconfig.app.json"
   ],
   "exclude": [
